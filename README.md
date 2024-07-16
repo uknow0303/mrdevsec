@@ -1,13 +1,6 @@
-# mrdevsec
-----
-# Portfolio
-
 # Welcome to My Portfolio
-
 ---
-
 ## Introduction
-
 Hello! I'm Michael Robins, a passionate cybersecurity professional and software developer with a proven track record of identifying and mitigating security vulnerabilities. With a strong foundation in both offensive and defensive security techniques, coupled with my expertise in software development, I bring a unique perspective to solving complex security challenges.
 
 ### About Me
