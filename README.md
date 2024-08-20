@@ -51,7 +51,7 @@ I am currently working as a Network Administrator for Calian Corp., a real estat
 
 ### Projects
 
-In this portfolio, you'll find detailed documentation of my projects, showcasing my skills and methodologies. Each project includes:
+Visit my github repo where, you'll find detailed documentation of my projects, showcasing my skills and methodologies. Each project includes:
 
 - **Project Overview**: A brief description of the project and its objectives.
 - **Technical Stack**: Tools and technologies used.
