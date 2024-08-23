@@ -59,7 +59,7 @@ Visit my github repo where, you'll find detailed documentation of my projects, s
 - **Results**: Outcomes and impact of the project.
 - **Learnings**: Key takeaways and insights gained from the project.
 
-### Hack The Box and TryHackMe Challenges
+### Hack The Box CTF and Other Labs
 
 I have completed most challenges on Hack The Box and TryHackMe, set up numerous labs and offices, pen tested systems, and created multiple Capture The Flag challenges. Additionally, I am an avid bounty hunter on HackerOne and BugCrowd.
 
